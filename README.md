@@ -35,3 +35,4 @@ The program uses monthly sales data from months 1–12 to train a Linear Regress
 
 ## Note
 This project uses sample sales data for demonstration. Forecasts are estimates and may not represent real business sales.
+Intern ID: CITS9935
